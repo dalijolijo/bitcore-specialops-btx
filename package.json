@@ -17,8 +17,8 @@
     "blockchain",
     "bitcore"
   ],
-  "main": "lib",
-  "bitcoreNode": "lib",
+  "main": "lib-btx",
+  "bitcoreNode": "lib-btx",
   "engines": {
     "node": ">=8.9.0"
   },
