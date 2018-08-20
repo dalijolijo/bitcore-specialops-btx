@@ -28,7 +28,7 @@ cd ~/mynode
 npm install --save bitcore-specialops-btx
 ```
 
-Add ___specialops___ as a dependency in `~/mynode/bitcore-node.json`:
+Add ___bitcore-specialops-btx___ as a dependency in `~/mynode/bitcore-node.json`:
 
 ```javascript
 {
